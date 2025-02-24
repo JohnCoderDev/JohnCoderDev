@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JohnCoderDev
-- I'm a really curious person with various interests
-- My main focus is data science and statistics
-- I really like to develop software and share my work with the world
+- Hello, World!
+- My name is John (in reality, is João because i'm brazilian, but John is easier to pronouce in portuguese), nice to meet you!
+- I love programming, I do it as my job and hobbie.
+- I already programmed in C, Python, JavaScript, TypeScript, OpenEdge ABL and in many other languages.
+- Since programming languages are only ways to communicate with the computer, I don't think it's really relevant to say that one language is better than other.
+- I would like to be recognized by my work and see the positive impact of it in companies, people, etc.
