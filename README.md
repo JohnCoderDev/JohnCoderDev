@@ -1,6 +1,25 @@
-- Hello, World!
-- My name is John (in reality, is João because i'm brazilian, but John is easier to pronouce in portuguese), nice to meet you!
-- I love programming, I do it as my job and hobbie.
-- I already programmed in C, Python, JavaScript, TypeScript, OpenEdge ABL and in many other languages.
-- Since programming languages are only ways to communicate with the computer, I don't think it's really relevant to say that one language is better than other.
-- I would like to be recognized by my work and see the positive impact of it in companies, people, etc.
+<div>
+<a href="https://github.com/JohnCoderDev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCoderDev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnCoderDevshow_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## What about me?
+Hi, my name is John! I'm a physicist and software developer working from Brazil (country where I was born).
+I love programming both as work and hobbie. I'm pretty curious and I would love if you can teach me something new.
+
+## Tecnologies I know
+### That I use at work
+- Angular
+- JavaScript/TypeScript
+- Progress ABL
+
+### That I use in personal projects
+- Python
+- Django
+- Flutter
+
+### That I want to learn 4fun
+- C / C++
+- Java
+- Assembly
