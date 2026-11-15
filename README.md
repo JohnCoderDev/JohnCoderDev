@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=JohnCoderDev&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=JohnCoderDev&hide_title=true&langs_count=4&hide_values=true&theme=dark_github&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </div>
 
 ## 👋 Hi there
